@@ -6,7 +6,7 @@ html, body{
 	background-image: url(../img/mur.png);
 	background-attachment:fixed;
 	background-repeat:repeat;
-	background-position:x-0 y-100;
+	background-position:top left;
 }
 
 
@@ -37,6 +37,6 @@ html, body{
 	right:33%;
 	top:30%;
 	bottom:0;
-	background-color: rgba(64,64,64,0.8);
+	background-color: rgba(240,102,6,0.8);
 }
 
