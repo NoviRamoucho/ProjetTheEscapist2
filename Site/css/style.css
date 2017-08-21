@@ -36,6 +36,10 @@ html, body{
 	text-decoration:underline;
 }
 
+.i:hover {
+	color:rgba(240,102,6,1);
+}
+
 .i{
 	color:white;
 	font-weight : bolder;
