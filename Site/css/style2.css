@@ -1,0 +1,85 @@
+html, body{
+	font-size: 16px;
+	height: 100%;
+	margin: 0;
+	padding:0;
+	background-image: url(../img/mur.png);
+	background-attachment:fixed;
+	background-repeat:repeat;
+	background-position:top left;
+}
+
+
+.header {
+	position:fixed;
+	left:0;
+	right:0;
+	height:210px;
+	line-height:0;
+	background-color:black;
+}
+
+.header2{
+	position:fixed;
+	left:0;
+	right:0;
+	height:80px;
+	top:210px;
+	background-color:gray;
+}
+
+.a{
+	color:white;
+	font-weight : bolder;
+	left:38%;
+	position:absolute;
+	top:25%;
+	text-decoration:none;
+	font-size:33px;
+	
+}
+
+.a:hover {
+	color:rgba(240,102,6,1);
+}
+
+.i{
+	color:white;
+	font-weight : bolder;
+	left:55%;
+	position:absolute;
+	text-decoration:underline;
+}
+
+.logo{
+	position:absolute;
+	top:5%;
+	left:28%;
+}
+
+.logot{
+	position:absolute;
+	top:8%;
+	left:38%;
+}
+
+.article{
+	position:fixed;
+	left:20%;
+	right:20%;
+	top:290px;
+	bottom:0;
+	background-color: rgba(240,102,6,0.8);
+	padding: 1% 2% 0 2%;
+	overflow:auto
+}
+div{
+	color:white;
+	font-weight : bolder;
+	font-size:125%;
+}
+
+.image{
+	width:30%;
+	height:30%;
+}
